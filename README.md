@@ -17,10 +17,12 @@ I specialize in:
 - 🖼️ **Graphics Design** (Adobe, Canva)
 - 🎥 **Content Creation** (YouTube, short-form video)
 
+
 <p>
   <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </p>
 
 
@@ -49,11 +51,11 @@ Fueled by **curiosity** and a deep **passion for problem-solving**, I’m always
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: '10px'; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=gideonjulian&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gideonjulian&theme=tokyonight" width="48%" />
-</p>
+</div>
+p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideonjulian&layout=compact&theme=tokyonight" width="48%" />
