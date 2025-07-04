@@ -59,6 +59,8 @@ Fueled by **curiosity** and a deep **passion for problem-solving**, I’m always
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideonjulian&layout=compact&theme=tokyonight" width="48%" />
+  <img src='https://github-profile-trophy.vercel.app/?username=gideonjulian&title=Followers,Commits,Stars,PullRequest,Issues,Repositories
+' />
 </p>
 
 ---
